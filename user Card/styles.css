@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 1rem;
+    color: white;
+}
+
+.navbar .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar .nav-links li {
+    margin-left: 1rem;
+}
+
+.navbar .nav-links a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.navbar .nav-links a:hover {
+    color: #ddd;
+}
+.container0{
+    display: flex;
+
+    
+}
+
+.container{
+  display: flex;
+
+}
+
+.container1{
+   
+
+    background: url(/Users/mac/Desktop/usercard/image/one+.jpeg);
+    background-size: cover;
+ 
+ 
+    width: 30%;
+    max-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(237, 5, 5, 0.5);    
+   
+}
+
+.container2{
+    background: url(/Users/mac/Desktop/usercard/image/sam.jpeg);
+    background-size: cover;
+  
+    width: 30%;
+    min-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(255, 0, 0, 0.5);    
+    border: 1px solid rgba(255, 0, 0, 0.2);
+}
+.container3{
+   background: url(/Users/mac/Desktop/usercard/image/ip.jpeg);
+   background-size: cover;
+    width: 30%;
+  
+    min-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(255, 0, 0, 0.5);    
+    border: 1px solid rgba(139, 89, 89, 0.2);
+}
+.container4{
+    background: url(/Users/mac/Desktop/usercard/image/real.jpeg) ;
+    background-size: cover;
+    width: 30%;
+    min-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(255, 0, 0, 0.5);    
+    border: 1px solid rgba(139, 89, 89, 0.2);
+}
+.container5{
+    background: url(/Users/mac/Desktop/usercard/image/mi.jpeg);
+    background-size: cover;
+    width: 30%;
+    min-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(255, 0, 0, 0.5);    
+    border: 1px solid rgba(139, 89, 89, 0.2);
+}
+.container6{
+    background: url(/Users/mac/Desktop/usercard/image/rogg.jpeg);
+    background-size: cover;
+    width: 30%;
+    min-height: 30%;
+    padding: 20px;
+    padding-top: 300px;
+    margin: 20px; 
+    box-shadow: 0 0 10px 2px rgba(255, 0, 0, 0.5);    
+    border: 1px solid rgba(139, 89, 89, 0.2);
+}
